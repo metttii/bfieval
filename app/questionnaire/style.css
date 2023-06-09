@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;500;600&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #F2F3F4; /* light gray */
+    color: #333; /* dark gray */
+}
+
+#topContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+#userInputBox {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    margin: 5vh
+}
+
+#questionBox {
+    font-weight: 500;
+    width: 80vmin;
+    text-align: center;
+    font-size: 2em;
+    opacity: 0; /* hidden by default */
+    animation: fadeIn 1s ease-out forwards; /* this adds a fade-in effect */
+    margin-top: 20vh;
+}
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
+}
+
+.sliderContainer {
+    width: 70vmin;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.slider {
+    width: 100%;
+    appearance: none;
+    background: #BBDEFB; /* light blue */
+    height: 0.9vi;
+    border-radius: 10px;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    background: #90CAF9; /* brighter light blue */
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#buttons {
+    width: 70vmin;
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    font-family: 'Inter', sans-serif;
+    background-color: #AED581; /* light green */
+    border: none;
+    color: #333;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+    margin: 10px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    width: 7lh;
+}
+
+button:hover {
+    background-color: #C5E1A5; /* darker light green */
+}
+
+button:disabled{
+    pointer-events: none;
+    background-color: #F2F3F4;
+    color: #F2F3F4;
+}
+
+#textbox {
+    width: 70vmin;
+}
+
+
+#textbox textarea {
+    font-family: 'Inter', sans-serif;
+    width: 100%;
+    height: 10vh;
+    border: 1px solid #AED581; /* add a border to increase visibility */
+    padding: 5px;
+    border-radius: 8px;
+    resize: none;
+    outline: none;
+    background-color: #F2F3F4; /* darker light gray */
+    color: #333;
+}
+
+#progressBarContainer {
+    position: fixed; /* makes it stick to the top */
+    top: 0; /* aligns it with the top of the page */
+    width: 70vmin;
+    background-color: #e7e7e7;
+    height: 25px;
+    border-radius: 10px; /* half of the height to make it fully rounded */
+    position: relative;
+    overflow: hidden; /* to make sure inner content also gets rounded corners */
+    z-index: 100; /* ensures it's on top of other elements */
+    margin-top: 5vh;
+}
+
+#progressBar {
+    width: 0%;
+    height: 100%;
+    background-color: #AED581;
+    transition: width 0.5s ease-out; /* this will animate the width change */
+}
+
+#progressLabel {
+    font-weight: 600;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

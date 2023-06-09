@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Questions Page</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+<div id="topContainer">
+    <div id="progressBarContainer">
+        <div id="progressBar">
+            <div id="progressLabel"></div>
+        </div>
+    </div>
+    <div id="questionBox"></div>
+</div>
+    <div id="userInputBox">
+
+    <div id="textbox" style="display: none;">
+        <textarea id="response" placeholder="Does this question or statement make you think of a specific event?"></textarea>
+    </div>
+    <div class="sliderContainer">
+        <p>How much do you agree with that question or statement?</p>
+        <div id="slider1Value">5</div>
+        <input type="range" min="0" max="10" value="5" class="slider" id="slider1" step="0.01">
+    </div>
+    
+    <div class="sliderContainer">
+        <p>How much of this have you experienced in the last two weeks?</p>
+        <div id="slider2Value">5</div>
+        <input type="range" min="0" max="10" value="5" class="slider" id="slider2" step="0.01">
+    </div>
+    
+    <div id="buttons">
+        <button id="prevBtn">Previous</button>
+        <div id="eventButtons">
+            <button id="addEventBtn">Add event</button>
+            <button id="removeEventBtn" style="display: none;">Remove event</button>
+        </div>
+        <button id="nextBtn">Next</button>
+
+    </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

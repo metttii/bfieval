@@ -1,0 +1,302 @@
+[
+            {
+                "category": "Extraversion",
+                "subCategory": "Sociability items",
+                "question": "Do you often find yourself being the quietest person in the room?"
+            },
+            {
+                "category": "Extraversion",
+                "subCategory": "Sociability items",
+                "question": "Would you consider yourself talkative in most social situations?"
+            },
+            {
+                "category": "Extraversion",
+                "subCategory": "Sociability items",
+                "question": "Do you find yourself being outgoing and sociable in most situations?"
+            },
+            {
+                "category": "Extraversion",
+                "subCategory": "Sociability items",
+                "question": "Do you feel shy or introverted in crowded social situations?"
+            },
+            {
+                "category": "Extraversion",
+                "subCategory": "Assertiveness items",
+                "question": "Do you often take charge and act as the leader in group situations?"
+            },
+            {
+                "category": "Extraversion",
+                "subCategory": "Assertiveness items",
+                "question": "Would you say you have an assertive personality?"
+            },
+            {
+                "category": "Extraversion",
+                "subCategory": "Assertiveness items",
+                "question": "Do you prefer it when others take charge of situations?"
+            },
+            {
+                "category": "Extraversion",
+                "subCategory": "Assertiveness items",
+                "question": "Do you find it difficult to influence people?"
+            },
+            {
+                "category": "Extraversion",
+                "subCategory": "Energy Level items",
+                "question": "Do you consider yourself a person full of energy?"
+            },
+            {
+                "category": "Extraversion",
+                "subCategory": "Energy Level items",
+                "question": "Do you show a lot of enthusiasm for things you're interested in?"
+            },
+            {
+                "category": "Extraversion",
+                "subCategory": "Energy Level items",
+                "question": "Do you rarely feel excited or eager about things?"
+            },
+            {
+                "category": "Extraversion",
+                "subCategory": "Energy Level items",
+                "question": "Do you consider yourself less active than most people you know?"
+            },
+            {
+                "category": "Agreeableness",
+                "subCategory": "Compassion items",
+                "question": "Would you describe yourself as compassionate and soft-hearted?"
+            },
+            {
+                "category": "Agreeableness",
+                "subCategory": "Compassion items",
+                "question": "Do you think you can be cold and uncaring at times?"
+            },
+            {
+                "category": "Agreeableness",
+                "subCategory": "Compassion items",
+                "question": "Do you see yourself as a helpful and unselfish person?"
+            },
+            {
+                "category": "Agreeableness",
+                "subCategory": "Compassion items",
+                "question": "Do you feel that you lack sympathy for others?"
+            },
+            {
+                "category": "Agreeableness",
+                "subCategory": "Respectfulness items",
+                "question": "Do you always treat others with respect?"
+            },
+            {
+                "category": "Agreeableness",
+                "subCategory": "Respectfulness items",
+                "question": "Do you strive to be polite and courteous in your interactions with others?"
+            },
+            {
+                "category": "Agreeableness",
+                "subCategory": "Respectfulness items",
+                "question": "Have there been times when you've been rude to others?"
+            },
+            {
+                "category": "Agreeableness",
+                "subCategory": "Respectfulness items",
+                "question": "Do you tend to start arguments with others?"
+            },
+            {
+                "category": "Agreeableness",
+                "subCategory": "Trust items",
+                "question": "Do you generally assume the best about people until proven otherwise?"
+            },
+            {
+                "category": "Agreeableness",
+                "subCategory": "Trust items",
+                "question": "Do you consider yourself to have a forgiving nature?"
+            },
+            {
+                "category": "Agreeableness",
+                "subCategory": "Trust items",
+                "question": "Do you often find fault with others?"
+            },
+            {
+                "category": "Agreeableness",
+                "subCategory": "Trust items",
+                "question": "Do you tend to be suspicious of others' intentions?"
+            },
+            {
+                "category": "Conscientiousness",
+                "subCategory": "Organization items",
+                "question": "Would you describe yourself as disorganized?"
+            },
+            {
+                "category": "Conscientiousness",
+                "subCategory": "Organization items",
+                "question": "Do you like keeping things systematic and in order?"
+            },
+            {
+                "category": "Conscientiousness",
+                "subCategory": "Organization items",
+                "question": "Do you make an effort to keep your surroundings neat and tidy?"
+            },
+            {
+                "category": "Conscientiousness",
+                "subCategory": "Organization items",
+                "question": "Do you often leave a mess and avoid cleaning up?"
+            },
+            {
+                "category": "Conscientiousness",
+                "subCategory": "Productiveness items",
+                "question": "Do you see yourself as an efficient person who gets things done?"
+            },
+            {
+                "category": "Conscientiousness",
+                "subCategory": "Productiveness items",
+                "question": "Do you persist with tasks until they are finished?"
+            },
+            {
+                "category": "Conscientiousness",
+                "subCategory": "Productiveness items",
+                "question": "Do you often feel lazy and unproductive?"
+            },
+            {
+                "category": "Conscientiousness",
+                "subCategory": "Productiveness items",
+                "question": "Do you find it hard to get started on tasks?"
+            },
+            {
+                "category": "Conscientiousness",
+                "subCategory": "Responsibility items",
+                "question": "Do you think you can be somewhat careless at times?"
+            },
+            {
+                "category": "Conscientiousness",
+                "subCategory": "Responsibility items",
+                "question": "Have there been times when you've behaved irresponsibly?"
+            },
+            {
+                "category": "Conscientiousness",
+                "subCategory": "Responsibility items",
+                "question": "Can people always count on you to be reliable?"
+            },
+            {
+                "category": "Conscientiousness",
+                "subCategory": "Responsibility items",
+                "question": "Are you a dependable and steady person?"
+            },
+            {
+                "category": "Negative Emotionality",
+                "subCategory": "Anxiety items",
+                "question": "Do you handle stress well and stay relaxed in stressful situations?"
+            },
+            {
+                "category": "Negative Emotionality",
+                "subCategory": "Anxiety items",
+                "question": "Do you find yourself worrying a lot?"
+            },
+            {
+                "category": "Negative Emotionality",
+                "subCategory": "Anxiety items",
+                "question": "Do you rarely feel anxious or afraid?"
+            },
+            {
+                "category": "Negative Emotionality",
+                "subCategory": "Anxiety items",
+                "question": "Do you often feel tense?"
+            },
+            {
+                "category": "Negative Emotionality",
+                "subCategory": "Depression items",
+                "question": "Do you often feel sad?"
+            },
+            {
+                "category": "Negative Emotionality",
+                "subCategory": "Depression items",
+                "question": "Do you tend to feel depressed or blue?"
+            },
+            {
+                "category": "Negative Emotionality",
+                "subCategory": "Depression items",
+                "question": "Do you feel secure and comfortable with yourself?"
+            },
+            {
+                "category": "Negative Emotionality",
+                "subCategory": "Depression items",
+                "question": "Do you stay optimistic even after experiencing setbacks?"
+            },
+            {
+                "category": "Negative Emotionality",
+                "subCategory": "Emotional Volatility items",
+                "question": "Do you consider yourself emotionally stable and not easily upset?"
+            },
+            {
+                "category": "Negative Emotionality",
+                "subCategory": "Emotional Volatility items",
+                "question": "Are you temperamental or do you get emotional easily?"
+            },
+            {
+                "category": "Negative Emotionality",
+                "subCategory": "Emotional Volatility items",
+                "question": "Do you keep your emotions under control?"
+            },
+            {
+                "category": "Negative Emotionality",
+                "subCategory": "Emotional Volatility items",
+                "question": "Do you experience mood swings?"
+            },
+            {
+                "category": "Open-Mindedness",
+                "subCategory": "Intellectual Curiosity items",
+                "question": "Do you have little interest in abstract ideas?"
+            },
+            {
+                "category": "Open-Mindedness",
+                "subCategory": "Intellectual Curiosity items",
+                "question": "Do you consider yourself a complex and deep thinker?"
+            },
+            {
+                "category": "Open-Mindedness",
+                "subCategory": "Intellectual Curiosity items",
+                "question": "Do you avoid intellectual and philosophical discussions?"
+            },
+            {
+                "category": "Open-Mindedness",
+                "subCategory": "Intellectual Curiosity items",
+                "question": "Are you curious about many different things?"
+            },
+            {
+                "category": "Open-Mindedness",
+                "subCategory": "Aesthetic Sensitivity items",
+                "question": "Are you fascinated by art, music, or literature?"
+            },
+            {
+                "category": "Open-Mindedness",
+                "subCategory": "Aesthetic Sensitivity items",
+                "question": "Do you have few artistic interests?"
+            },
+            {
+                "category": "Open-Mindedness",
+                "subCategory": "Aesthetic Sensitivity items",
+                "question": "Do you value art and beauty?"
+            },
+            {
+                "category": "Open-Mindedness",
+                "subCategory": "Aesthetic Sensitivity items",
+                "question": "Do you find poetry and plays boring?"
+            },
+            {
+                "category": "Open-Mindedness",
+                "subCategory": "Creative Imagination items",
+                "question": "Do you think you lack creativity?"
+            },
+            {
+                "category": "Open-Mindedness",
+                "subCategory": "Creative Imagination items",
+                "question": "Are you inventive and find clever ways to do things?"
+            },
+            {
+                "category": "Open-Mindedness",
+                "subCategory": "Creative Imagination items",
+                "question": "Are you original and come up with new ideas?"
+            },
+            {
+                "category": "Open-Mindedness",
+                "subCategory": "Creative Imagination items",
+                "question": "Do you find it hard to imagine things?"
+            }
+]
